@@ -1,0 +1,18 @@
+D:\Users\bsi50129\.vscode\Training Middleware\bin\Debug\netcoreapp3.0\appsettings.Development.json
+D:\Users\bsi50129\.vscode\Training Middleware\bin\Debug\netcoreapp3.0\appsettings.json
+D:\Users\bsi50129\.vscode\Training Middleware\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+D:\Users\bsi50129\.vscode\Training Middleware\bin\Debug\netcoreapp3.0\Training Middleware.exe
+D:\Users\bsi50129\.vscode\Training Middleware\bin\Debug\netcoreapp3.0\Training Middleware.deps.json
+D:\Users\bsi50129\.vscode\Training Middleware\bin\Debug\netcoreapp3.0\Training Middleware.runtimeconfig.json
+D:\Users\bsi50129\.vscode\Training Middleware\bin\Debug\netcoreapp3.0\Training Middleware.runtimeconfig.dev.json
+D:\Users\bsi50129\.vscode\Training Middleware\bin\Debug\netcoreapp3.0\Training Middleware.dll
+D:\Users\bsi50129\.vscode\Training Middleware\bin\Debug\netcoreapp3.0\Training Middleware.pdb
+D:\Users\bsi50129\.vscode\Training Middleware\obj\Debug\netcoreapp3.0\Training Middleware.csprojAssemblyReference.cache
+D:\Users\bsi50129\.vscode\Training Middleware\obj\Debug\netcoreapp3.0\staticwebassets\Training Middleware.StaticWebAssets.Manifest.cache
+D:\Users\bsi50129\.vscode\Training Middleware\obj\Debug\netcoreapp3.0\staticwebassets\Training Middleware.StaticWebAssets.xml
+D:\Users\bsi50129\.vscode\Training Middleware\obj\Debug\netcoreapp3.0\Training Middleware.MvcApplicationPartsAssemblyInfo.cache
+D:\Users\bsi50129\.vscode\Training Middleware\obj\Debug\netcoreapp3.0\Training Middleware.AssemblyInfoInputs.cache
+D:\Users\bsi50129\.vscode\Training Middleware\obj\Debug\netcoreapp3.0\Training Middleware.AssemblyInfo.cs
+D:\Users\bsi50129\.vscode\Training Middleware\obj\Debug\netcoreapp3.0\Training Middleware.RazorTargetAssemblyInfo.cache
+D:\Users\bsi50129\.vscode\Training Middleware\obj\Debug\netcoreapp3.0\Training Middleware.dll
+D:\Users\bsi50129\.vscode\Training Middleware\obj\Debug\netcoreapp3.0\Training Middleware.pdb
